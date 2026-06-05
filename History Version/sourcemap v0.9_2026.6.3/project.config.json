@@ -53,7 +53,7 @@
   "cloudfunctionRoot": "cloudfunctions/",
   "compileType": "miniprogram",
   "libVersion": "3.16.1",
-  "appid": "wx0d1cd389353562b8",
+  "appid": "wx",
   "projectname": "kidsgrowth",
   "isGameTourist": false,
   "condition": {},
